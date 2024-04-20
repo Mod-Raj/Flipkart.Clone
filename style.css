@@ -1,0 +1,133 @@
+
+.shoe1
+{
+    height: 600px;
+    width: 600px;
+    margin-left: 100px;
+}
+.shoe0
+{
+    height: 75px;
+    width: 75px;
+    position: relative;
+    right: 700px;
+    bottom: 514px;
+    border: 2px solid blue;
+    padding: 5px;
+}
+.shoe2
+{
+    height: 85px;
+    width: 85px;
+    position: relative;
+    right: 790px;
+    bottom: 412px;
+}
+.shoe3
+{
+    height: 85px;
+    width: 85px;
+    position: relative;
+    right: 880px;
+    bottom: 310px;
+}
+.add
+{
+    text-transform: uppercase;
+    height: 80px;
+    width: 335px;
+    position: relative;
+    right: 960px;
+    top: 60px;
+    background-color: #FF9F00;
+    border-style: none;
+    border-radius: 5px;
+    font-weight: 900;
+    color: rgb(12, 12, 12);
+}
+.buy
+{
+    text-transform: uppercase;
+    height: 80px;
+    width: 335px;
+    position: relative;
+    left: 365px;
+    bottom: 20px;
+    background-color: #FB641B;
+    border-style: none;
+    border-radius: 5px;
+    font-weight: 900;
+    color: rgb(12, 12, 12);
+}
+.cart
+{
+    color: black;
+    height: 20px;
+    position: absolute;
+    left: 100px;
+    bottom: 67px;
+    
+}
+.thunder
+{
+    color: black;
+    height: 20px;
+    position: absolute;
+    left: 480px;
+    bottom: 65px;
+
+}
+.like
+{
+   position: absolute;
+   color: #CCCCCC;
+   transform: scale(2.2);
+   top: 40px;
+   left: 650px;
+   background-color: white;
+   padding: 5px;
+   
+   border-radius: 100px;
+   box-shadow: 0px 0px 1px 0px black;
+}
+.like:active
+{
+    color: #9f0808;
+}
+
+.right
+{
+    position: absolute;
+    left: 720px;
+    top: -5px;
+}
+.index
+{
+    color: #a1a1a1;
+    font-size: small;
+}
+.rate
+{
+    background-color: green;
+    font-weight: 900;
+    padding-right: 20px;
+    padding-top:2px;
+    padding-bottom: 2px;
+    padding-left: 5px;
+    border-radius: 10px;
+    color: white;
+}
+.star
+{
+    position: relative;
+    right: 20px;
+    top: 1px;
+    color: white;
+}
+.raters
+{
+    position: relative;
+    right: 15px;
+    font-weight: 900;
+    color: #828080;
+}
